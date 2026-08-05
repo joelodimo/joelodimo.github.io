@@ -57,7 +57,7 @@ Welcome to my personal portfolio repository. Here, I showcase my work across web
 
 I am an Editor, Content Strategist, Quality Assurance Analyst, and Digital Marketing professional with over nine years of experience spanning quality assurance, AI data annotation, editorial publishing, website management, SEO, and digital product development.
 
-This portfolio showcases the digital products, content platforms, and tools I have built—including progressive web apps, commercial browser extensions, and environmental publications—alongside my work in AI response evaluation, data analytics, and digital publishing.
+This portfolio showcases the digital products, content platforms, and tools I have built, including progressive web apps, commercial browser extensions, and environmental publications, alongside my work in AI response evaluation, data analytics, and digital publishing.
 
 ---
 
