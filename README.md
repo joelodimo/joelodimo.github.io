@@ -10,11 +10,6 @@ Welcome to my personal portfolio repository. Here, I showcase my work across web
 
 </div>
 
-> [!NOTE]
-> This repository contains the source code for my personal portfolio, highlighting the projects I have built, the technologies I use, and my professional experience.
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Web Development
@@ -49,7 +44,6 @@ Welcome to my personal portfolio repository. Here, I showcase my work across web
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Portfolio** | Personal portfolio showcasing projects, skills, and experience. | [Visit Site](https://joelodimo.github.io) |
 | **Safari Planner** | Your perfect safari, planned in 60 seconds. | [Visit Site](https://safariplanner.joelodimo.com) |
 | **The TanglePost** | Environmental insights on sustainability, conservation, climate, and nature. | [Visit Site](https://joelodimo.com) |
 | **Wild Explorer Picks** | Expert guides to camping, hiking, and outdoor gear. | [Visit Site](https://wildexplorerspicks.com) |
