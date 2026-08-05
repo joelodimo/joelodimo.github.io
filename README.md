@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joel Onyango Odimo
+# Joel Odimo
 
 **Editor | Content Strategist | Quality Assurance Specialist**
 
@@ -63,6 +63,6 @@ This portfolio showcases the digital products, content platforms, and tools I ha
 
 <div align="center">
 
-© Joel Onyango Odimo
+© Joel Odimo
 
 </div>
