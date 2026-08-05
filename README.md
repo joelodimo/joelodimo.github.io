@@ -2,7 +2,7 @@
 
 # Joel Odimo
 
-**Digital Professional | Web Developer | Data & SEO Specialist**
+**Editor | Content Strategist | Data & SEO Specialist**
 
 [Live Portfolio](https://joelodimo.github.io) • [Website](https://joelodimo.com)
 
