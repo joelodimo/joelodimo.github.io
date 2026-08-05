@@ -4,8 +4,6 @@
 
 **Editor | Content Strategist | Data & SEO Specialist**
 
-[Live Portfolio](https://joelodimo.github.io) • [Website](https://joelodimo.com)
-
 ---
 
 Welcome to my personal portfolio repository. Here, I showcase my work across web development, data analytics, search engine optimisation (SEO), and digital product development.
