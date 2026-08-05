@@ -1,14 +1,16 @@
-<div align="center">
+<h1 align="center">Joel Odimo</h1>
 
-# Joel Odimo
-
-**Editor | Content Strategist | Quality Assurance Specialist**
+<p align="center">
+  <strong>Editor | Content Strategist | Quality Assurance Specialist</strong>
+</p>
 
 ---
 
-Welcome to my personal portfolio repository. Here, I showcase my work across web development, AI-assisted product creation, data quality, search engine optimisation (SEO & AEO), and digital publishing.
+<p align="center">
+  Welcome to my personal portfolio repository. Here, I showcase my work across web development, AI-assisted product creation, data quality, search engine optimisation (SEO & AEO), and digital publishing.
+</p>
 
-</div>
+<br />
 
 ## 🛠️ Technologies & Tools
 
@@ -61,8 +63,6 @@ This portfolio showcases the digital products, content platforms, and tools I ha
 
 ---
 
-<div align="center">
-
-© Joel Odimo
-
-</div>
+<p align="center">
+  © Joel Odimo
+</p>
